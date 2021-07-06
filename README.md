@@ -11,4 +11,6 @@ Full Stack MERN Application using React, Node.js, Express & MongoDB. The App is 
 
 Setup:
 - run ```npm i && npm start``` for both client and server side to start the app
+
+
 Hosted linked: https://sharingmemories.netlify.app/
