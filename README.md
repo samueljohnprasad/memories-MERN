@@ -8,6 +8,7 @@ Full Stack MERN Application using React, Node.js, Express & MongoDB. The App is 
 
 2. The user can perform update or delete operations on his posts
 
-hosted linked: https://sharingmemories.netlify.app/
+
 Setup:
 - run ```npm i && npm start``` for both client and server side to start the app
+Hosted linked: https://sharingmemories.netlify.app/
